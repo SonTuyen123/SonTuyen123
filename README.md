@@ -2,7 +2,7 @@
 <h3 align="center">A  developer from Viet Nam</h3>
 - 🌱 I’m currently learning **NodeJs, ReactJS**
 
-- 💬 Ask me about **ReactJS, NodeJS**
+- 💬 Ask me about *NodeJS,*ReactJS**
 
 - 📫 How to reach me **caotuyen2701@gmail.com**
 
